@@ -1,7 +1,7 @@
 {
-  "name": "maliq-cms",
+  "name": "maliq-cms-pice",
   "version": "1.0.0",
   "scripts": {
-    "build": "mkdir -p public && cp -r admin public/ && cp config.yml public/ || true"
+    "build": "mkdir -p public && cp -r *.html public/ && cp -r admin public/ && cp config.yml public/ || true"
   }
 }
