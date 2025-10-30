@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>MALIQ Tarifler</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 50px; }
+        a { display: inline-block; padding: 15px 30px; background: #007acc; color: white; 
+            text-decoration: none; border-radius: 5px; margin: 20px; }
+    </style>
+</head>
+<body>
+    <h1>🍳 MALIQ Tarifler</h1>
+    <p>Yemek tarifleri koleksiyonu</p>
+    <a href="/admin/">📝 Admin Paneline Git</a>
+</body>
+</html>
