@@ -22,4 +22,4 @@ collections:
           - { name: "name", label: "Ad", widget: "string" }
           - { name: "qty", label: "Miktar", widget: "string" }
           - { name: "unit", label: "Birim", widget: "string" }
-      - { name: "instructions", label: "Tarif Metni", widget: "markdown" }config.yml
+      - { name: "instructions", label: "Tarif Metni", widget: "markdown" }
